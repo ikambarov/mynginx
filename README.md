@@ -1,2 +1,2 @@
 # mynginx
-Custom Nginx
+Custom Nginx  for testing purposes
